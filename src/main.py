@@ -2,7 +2,7 @@ import excelToolUtils
 import wordCount
 import time
 import os
- 
+
 # 文件夹路径
 filePath = "D:/测试文件/给彪哥.xlsx"
 # 取前词数
